@@ -1,17 +1,12 @@
 package sample;
 
 import javafx.application.Application;
-import javafx.scene.Group;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
 import javafx.scene.Scene;
-import javafx.scene.paint.Color;
 import javafx.stage.Stage;
-import javafx.scene.shape.*;
 
 public class Main extends Application {
-    final int width = 1200;
-    final int height = 900;
-    final int arc = 30;
-    final double radius = height * 0.02;
 
     @Override
     public void start(Stage primaryStage) throws Exception{
@@ -51,6 +46,7 @@ public class Main extends Application {
         primaryStage.setScene(scene);
         primaryStage.show();
     }
+
 
     public static void main(String[] args) {
         launch(args);
