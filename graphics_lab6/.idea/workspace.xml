@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eecd665-0eec-4873-ab41-6467311ca6b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../graphics_lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../graphics_lab4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../graphics_lab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../graphics_lab5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../l3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../l3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab1/.idea/artifacts/JavaFXApp.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab1/.idea/compiler.xml" beforeDir="false" />
@@ -27,7 +25,8 @@
       <change beforePath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab2/lab2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab2/src/Skeleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../labb4/src/Castle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../labb4/src/Castle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labb4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labb4/src/Castle.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -247,7 +246,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1035" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26312968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -256,7 +254,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32996634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32996634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

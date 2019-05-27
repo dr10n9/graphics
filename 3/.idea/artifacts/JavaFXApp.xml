@@ -8,7 +8,7 @@
     </properties>
     <root id="root">
       <element id="archive" name="JavaFXApp.jar">
-        <element id="module-output" name="l3" />
+        <element id="module-output" name="lab3" />
       </element>
     </root>
   </artifact>
