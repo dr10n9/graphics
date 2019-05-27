@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85575694-a8f8-4faa-a4f6-4528354f9770" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../graphics_lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../graphics_lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/my/lab5/Mario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/my/lab5/Drums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/my/lab5/MarioAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/my/lab5/DrumsAnimation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../l3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../l3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../labb4/src/Castle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../labb4/src/Castle.java" afterDir="false" />
@@ -15,16 +19,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/my/lab5/Mario.java">
+        <entry file="file://$PROJECT_DIR$/src/com/my/lab5/Drums.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="142" column="42" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
+            <state relative-caret-position="150">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,12 +36,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/my/lab5/MarioAnimation.java">
+        <entry file="file://$PROJECT_DIR$/src/com/my/lab5/DrumsAnimation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="130" column="12" selection-start-line="130" selection-start-column="12" selection-end-line="130" selection-end-column="12" />
+            <state relative-caret-position="283">
+              <caret line="30" column="24" lean-forward="true" selection-end-line="139" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2358#2359#0" expanded="true" />
                 <element signature="e#2380#2381#0" expanded="true" />
               </folding>
             </state>
@@ -57,6 +61,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mario</find>
+      <find>leve</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -67,16 +72,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/my/lab5/Mario.java" />
         <option value="$PROJECT_DIR$/src/com/my/lab5/MarioAnimation.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/j3dcore.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/j3dutils.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/vecmath.xml" />
+        <option value="$PROJECT_DIR$/src/com/my/lab5/DrumsAnimation.java" />
       </list>
     </option>
   </component>
@@ -90,6 +86,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,11 +110,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$USER_HOME$/j3d/lib/ext/vecmath.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -136,8 +133,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Mario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.my.lab5.Mario" />
+    <configuration name="Drums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.my.lab5.Drums" />
       <module name="graphics_lab5" />
       <extension name="coverage">
         <pattern>
@@ -151,7 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mario" />
+        <item itemvalue="Application.Drums" />
       </list>
     </recent_temporary>
   </component>
@@ -170,16 +167,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1035" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973205" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25937834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32996634" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32996634" />
@@ -187,31 +181,36 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32996634" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/my/lab5/Mario.java">
+    <entry file="file://$PROJECT_DIR$/src/com/my/lab5/Drums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="142" column="42" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
+        <state relative-caret-position="150">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/my/lab5/MarioAnimation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/my/lab5/DrumsAnimation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="130" column="12" selection-start-line="130" selection-start-column="12" selection-end-line="130" selection-end-column="12" />
+        <state relative-caret-position="283">
+          <caret line="30" column="24" lean-forward="true" selection-end-line="139" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2358#2359#0" expanded="true" />
             <element signature="e#2380#2381#0" expanded="true" />
           </folding>
         </state>
